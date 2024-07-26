@@ -1,1 +1,2 @@
 # Medusa Ecommerce Web Application
+----------------------------------
