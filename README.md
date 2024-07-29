@@ -50,11 +50,11 @@ Customizable email templates built using React Email components.
 
 Once you have installed the dependencies and set up your environment variables, you can run the development server using:
 
-**npm run dev** in backend
+***npm run dev** in backend*
 
 This will start the admin application on http://localhost:7001, where you can explore the features and functionalities of admin.
 
-**npm run dev** in backend
+***npm run dev** in storefront*
 
 This will start the storefront application on http://localhost:8000, where you can explore the features and functionalities of customer/user.
 
